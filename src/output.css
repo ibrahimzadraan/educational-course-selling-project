@@ -1108,6 +1108,10 @@
     --tw-leading: 23px;
     line-height: 23px;
   }
+  .leading-\[24\.3px\] {
+    --tw-leading: 24.3px;
+    line-height: 24.3px;
+  }
   .leading-\[24px\] {
     --tw-leading: 24px;
     line-height: 24px;
@@ -1175,6 +1179,10 @@
   .leading-\[64px\] {
     --tw-leading: 64px;
     line-height: 64px;
+  }
+  .leading-\[px\] {
+    --tw-leading: px;
+    line-height: px;
   }
   .leading-normal {
     --tw-leading: var(--leading-normal);
